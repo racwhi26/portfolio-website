@@ -227,6 +227,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
 		width: 1200px;
+    background-color: teal;
 	}
 
 		.container.medium {
@@ -2052,7 +2053,7 @@ input, select, textarea {
 			transition: background-color .2s ease-in-out;
 			position: relative;
 			display: block;
-			color: #fff;
+			color: White;
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
@@ -2107,16 +2108,18 @@ input, select, textarea {
 			}
 
 		#top h1 {
-			margin-top: 0.35em;
+			margin-top: 1.10em;
+      color: white;
 		}
 
 		#top p {
 			font-size: 1.5em;
 			line-height: 1.75em;
+      color: white;
 		}
 
 			#top p a {
-				color: inherit;
+				color: white;
 			}
 
 	#contact footer {
